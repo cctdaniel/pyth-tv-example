@@ -1,3 +1,7 @@
+# Pyth X TradingView Chart Widget Example
+
+This is a simple example app demonstrating the integration of the TradingView Chart Widget with Pyth for creating a streamlined trading and data visualization experience.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
